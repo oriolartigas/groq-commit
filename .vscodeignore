@@ -1,0 +1,10 @@
+.vscode/**
+.gitignore
+.eslintrc.json
+tsconfig.json
+src/**
+node_modules/**
+out/**/*.map
+package-lock.json
+vsc-extension-quickstart.md
+*.vsix
